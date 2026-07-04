@@ -1,8 +1,9 @@
-# 🏥 Patient Management System
+# 🏥 Clinic Appointment & Patient Management System
+
 
 ⭐ If you find this project useful, consider starring the repo! ⭐
 
-A lightweight, role-based **Patient Management System** for healthcare facilities, built to make appointment booking, patient records, and doctor scheduling simple for clinics that don't need (or can't afford) an enterprise-grade hospital ERP.
+A lightweight, role-based **Clinic Appointment & Patient Management System** for healthcare facilities, built to make appointment booking, patient records, and doctor scheduling simple for clinics that don't need (or can't afford) an enterprise-grade hospital ERP.
 
 🩺 Simple enough for a small clinic, structured enough to scale
 🔄 A learning-friendly alternative to bloated hospital management suites
